@@ -4,6 +4,6 @@
 - 🎓  Pursuing a Ph.D. @LMU Munich.
 - 🔭  Research in computer graphics, mathematics, machine learning, and system programming.
 - 🌱  Open source fancier in Go, C++, JavaScript, etc.
-- 🏠  Homepage at [frank.de](https://frank.de).
-- 💬  My [resume](https://github.com/changkun/resume) and [talks](https://github.com/h00001/talks), and [YouTube](https://www.youtube.com/channel/UCtujb7c9eudbVEkAsIRZR3w) channel.
+- 🏠  Homepage at [github.io](https://h00001.github.io).
+- 💬  My [resume](https://github.com/h00001/resume) and [talks](https://github.com/h00001/talks), and [YouTube](https://www.youtube.com/) channel.
 - ⚖️  I founded The [golang.design](https://golang.design) Initiaitive.
